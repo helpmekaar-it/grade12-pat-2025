@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "learner_name": "Daniel Kornelius",
+    "exam_number": "251058022106",
+    "student_id": "27",
+    "pat_assessment": "Grade 12 IT PAT 2025",
+    "academic_year": "2025",
+    "grade_level": "Grade 12",
+    "subject": "Information Technology",
+    "school": "Helpmekaar College",
+    "school_ieb_centre": "1058",
+    "teacher_name": "Sean Barber",
+    "generated_at": "2025-08-05T08:05:22.900353+00:00",
+    "version": 4,
+    "last_updated_by": "",
+    "report_id": "pat-2025-daniel-kornelius-20250805-v4"
+  },
+  "summary": {
+    "total_max_points": 100.0,
+    "total_learner_score": 4.0,
+    "final_percentage": 4.0,
+    "weighted_percentage": 4.0,
+    "phases_completed": 1,
+    "phases_total": 4,
+    "status": "in_progress",
+    "grade_level_achieved": "Level 1 (Not Achieved)",
+    "general_comments": null,
+    "marking_date": "2025-08-05",
+    "moderation_date": null,
+    "moderator_name": null
+  },
+  "phases": [
+    {
+      "number": "1",
+      "name": "Project Specifications",
+      "type": "specifications",
+      "description": null,
+      "max_points": 17.0,
+      "weight_percentage": 17.0,
+      "status": "pending",
+      "learner_score": 0,
+      "percentage": 0.0,
+      "criteria": [],
+      "teacher_feedback": null,
+      "ai_feedback": null,
+      "submission_files": [],
+      "submission_date": null,
+      "marked_at": null,
+      "marked_by": null,
+      "moderated_score": null,
+      "moderation_comments": null
+    },
+    {
+      "number": "2",
+      "name": "System Design Documentation",
+      "type": "design",
+      "description": null,
+      "max_points": 30.0,
+      "weight_percentage": 30.0,
+      "status": "pending",
+      "learner_score": 0,
+      "percentage": 0.0,
+      "criteria": [],
+      "teacher_feedback": null,
+      "ai_feedback": null,
+      "submission_files": [],
+      "submission_date": null,
+      "marked_at": null,
+      "marked_by": null,
+      "moderated_score": null,
+      "moderation_comments": null
+    },
+    {
+      "number": "3",
+      "name": "Coding Documentation",
+      "type": "coding",
+      "description": null,
+      "max_points": 38.0,
+      "weight_percentage": 38.0,
+      "status": "pending",
+      "learner_score": 0,
+      "percentage": 0.0,
+      "criteria": [],
+      "teacher_feedback": null,
+      "ai_feedback": null,
+      "submission_files": [],
+      "submission_date": null,
+      "marked_at": null,
+      "marked_by": null,
+      "moderated_score": null,
+      "moderation_comments": null
+    },
+    {
+      "number": "4",
+      "name": "Technical Documentation & Testing",
+      "type": "technical_testing",
+      "description": null,
+      "max_points": 15.0,
+      "weight_percentage": 15.0,
+      "status": "graded",
+      "learner_score": 4.0,
+      "percentage": 26.7,
+      "criteria": [],
+      "teacher_feedback": null,
+      "ai_feedback": "Summary: | Externally Sourced Code: 1/1 | Explanation of Critical Algorithms: 2/3 | Advanced Techniques: 1/4 | Total: 4/8 | | Complete Feedback: | Externally Sourced Code (1/1): | Daniel has clearly stated that no external source code has been used in the development of this project. This meets the requirement for this section. | | Explanation of Critical Algorithms (2/3): | Daniel has provided an explanation of a critical algorithm (transaction_manager) and its importance. The pseudo code is presented, which is good. However, the algorithm is not fully presented in the correct IEB convention, and the explanation could be more detailed about why this algorithm is critical to the program's functioning. | | Advanced Techniques (1/4): | Daniel has not provided any advanced techniques at this stage, stating that the PAT is still being coded. While honesty is appreciated, this section requires a minimum of two techniques not part of the syllabus. As it stands, no points can be awarded for this section. However, a point is given for acknowledging the requirement and the current state of the project. | ",
+      "submission_files": [
+        "submissions/Kornelius_Daniel_Technical_Document_QW2gQBX.pdf"
+      ],
+      "submission_date": "2025-07-22T06:31:08.794045+00:00",
+      "marked_at": null,
+      "marked_by": "AI Assistant",
+      "moderated_score": null,
+      "moderation_comments": null
+    }
+  ],
+  "github_info": {
+    "repository": "",
+    "branch": "main",
+    "file_path": "",
+    "last_commit": null,
+    "pages_url": null,
+    "raw_url": null
+  },
+  "branding": {
+    "school_emblem_url": "/media/school_emblems/HMK_Logo.png",
+    "school_colors": {
+      "primary": "#1e40af",
+      "secondary": "#3b82f6"
+    },
+    "custom_css": null
+  }
+}
